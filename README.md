@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Jaiswal</h1>
-<h3 align="center">Full Stack Developer | Java Developer | Problem Solver</h3>
+<h3 align="center">Software Developer | MERN Developer | Problem Solver</h3>
 
 ---
 
@@ -44,18 +44,6 @@
 <img src="https://skillicons.dev/icons?i=bootstrap" />
 
 </p>
-
----
-
-## 📊 GitHub Stats
-
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivamjaiswal02&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamjaiswal02&layout=compact&theme=tokyonight)
 
 ---
 
