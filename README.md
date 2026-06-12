@@ -3,6 +3,7 @@
 
 # Hi there, I'm Shivam Jaiswal 👋
 <h3 >Software Developer | MERN Developer | Data Analyst</h3>
+---
 
 ## 🚀 About Me
 
