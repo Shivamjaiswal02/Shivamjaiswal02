@@ -1,69 +1,43 @@
-<h1 align="center">Hi 👋, I'm Shivam Jaiswal</h1>
-<h3 align="center">Software Developer | MERN Developer | Problem Solver</h3>
+<!-- <h1 align="center">Hi 👋, I'm Shivam Jaiswal</h1>
+<h3 align="center">Software Developer | MERN Developer | Problem Solver</h3> -->
 
----
+# Hi there, I'm Shivam Jaiswal 👋
 
 ## 🚀 About Me
 
-- 🎓 Final Year CSE Student
+- 🎓 Computer Science Engineering Graduate
 - 💻 Full Stack Developer
-- ☕ Learning Full Stack Development
-- 🧠 Solved 250+ DSA Problems
-- 🌱 Currently building real-world projects
-- 📫 Reach me at: Shivam.jais020801@gmail.com
+- 📊 Exploring Data Analytics
+- 🧩 Solved 250+ DSA Problems
+- 🚀 Building real-world projects and continuously improving my skills
+- 📫 Reach me at: shivam.jais020801@gmail.com
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Focus
 
-<p align="left">
-<a href="https://www.linkedin.com/in/shivam-jaiswal02/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://github.com/Shivamjaiswal02">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
+- 🏠 Building production-ready Full Stack Applications
+- 📊 Learning Data Analytics and Power BI
+- 🧠 Strengthening Data Structures & Algorithms
+- ⚙️ Improving Backend Development Skills
+- 🎯 Preparing for Software Development Engineer Roles
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Full Stack Development
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-
-</p>
-
----
-
-### 💻 Programming & Development
+### 💻 Languages
 - Java
-- Python
 - JavaScript
 - HTML5
 - CSS3
 - SQL
 
----
-
-### 🌐 Frontend Development
+### 🎨 Frontend Development
 - React.js
 - Bootstrap
-- Responsive Web Design
 - EJS
-
----
+- Responsive Web Design
 
 ### ⚙️ Backend Development
 - Node.js
@@ -71,26 +45,10 @@
 - REST APIs
 - Authentication & Authorization
 
----
-
 ### 🗄️ Database
 - MongoDB
 - MySQL
 - Mongoose ODM
-
----
-
-### 📊 Data Structures & Algorithms
-- Java
-- Arrays
-- Strings
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Graphs
-- Dynamic Programming
-
----
 
 ### 🔧 Tools & Platforms
 - Git
@@ -100,11 +58,60 @@
 - Postman
 - VS Code
 - Render
-- Vercel
 
 ---
 
-### 🚀 Currently Learning
-- System Design
-- Cloud Fundamentals
+## 📊 Data Analytics
 
+### 🐍 Programming & Querying
+- Python
+- SQL
+
+### 📈 Data Analysis
+- Pandas
+- NumPy
+
+### 📉 Data Visualization
+- Matplotlib
+- Seaborn
+- Power BI
+
+### 🧹 Data Cleaning & Processing
+- Data Cleaning
+- Data Wrangling
+- Missing Value Handling
+- Data Transformation
+
+### 📋 Analytics Skills
+- Exploratory Data Analysis (EDA)
+- Dashboard Creation
+- KPI Analysis
+- Business Insights
+
+---
+
+## 🏆 Featured Projects
+
+### 🏠 StayEase
+A full-stack Airbnb-inspired web application built using Node.js, Express.js, MongoDB, EJS, and REST APIs.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivamjaiswal02&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamjaiswal02&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shivamjaiswal02)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivam-jaiswal02/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Shivamjaiswal02)
+
+---
+⭐ Always eager to learn, build, and contribute to meaningful projects.
