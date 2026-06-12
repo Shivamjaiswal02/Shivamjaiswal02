@@ -83,6 +83,7 @@
 ### 📊 Data Structures & Algorithms
 - Java
 - Arrays
+- Strings
 - Linked Lists
 - Stacks & Queues
 - Trees
@@ -94,6 +95,8 @@
 ### 🔧 Tools & Platforms
 - Git
 - GitHub
+- Docker
+- CI/CD
 - Postman
 - VS Code
 - Render
