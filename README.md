@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shivam Jaiswal</h1>
-<h3 align="center">Software Developer | MERN Developer | Data Analyst</h3>
+<!-- <h1 align="center">Hi 👋, I'm Shivam Jaiswal</h1>
+<h3 align="center">Software Developer | MERN Developer | Data Analyst</h3> -->
+
+# Hi there, I'm Shivam Jaiswal 👋
+
 
 ## 🚀 About Me
 
