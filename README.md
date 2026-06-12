@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | MERN Developer | Data Analyst</h3> -->
 
 # Hi there, I'm Shivam Jaiswal 👋
-# Software Developer | MERN Developer | Data Analyst
+<h3 >Software Developer | MERN Developer | Data Analyst</h3>
 
 ## 🚀 About Me
 
