@@ -47,24 +47,61 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 💻 Programming & Development
+- Java
+- Python
+- JavaScript
+- HTML5
+- CSS3
+- SQL
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+### 🌐 Frontend Development
+- React.js
+- Bootstrap
+- Responsive Web Design
+- EJS
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+---
+
+### ⚙️ Backend Development
+- Node.js
+- Express.js
+- REST APIs
+- Authentication & Authorization
+
+---
 
 ### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+- MongoDB
+- MySQL
+- Mongoose ODM
 
-## ⚡ Fun Fact
+---
 
-I love building scalable full-stack applications and solving coding problems 🚀
+### 📊 Data Structures & Algorithms
+- Java
+- Arrays
+- Linked Lists
+- Stacks & Queues
+- Trees
+- Graphs
+- Dynamic Programming
+
+---
+
+### 🔧 Tools & Platforms
+- Git
+- GitHub
+- Postman
+- VS Code
+- Render
+- Vercel
+
+---
+
+### 🚀 Currently Learning
+- System Design
+- Cloud Fundamentals
+
